@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(1deg, #c55af7 0%, #b034e9 30%, #a50cec 40%, #8313b8 60%, #37054e 100%, transparent), radial-gradient(blue, transparent);
+    width: 100%;
+    height: 100vh;
+    /* overflow: hidden; */
+}
+#div{
+    background-color: #c55af741;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.288);
+}
+button{
+    background-color: #c55af741 !important;
+    border-color: white !important;
+    color: white;
+}
+button:hover{
+    font-weight: bold;
+}
